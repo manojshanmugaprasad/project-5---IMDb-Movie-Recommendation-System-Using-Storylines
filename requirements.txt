@@ -1,0 +1,9 @@
+pandas
+numpy
+selenium
+webdriver-manager
+nltk
+scikit-learn
+streamlit
+matplotlib
+seaborn
